@@ -86,6 +86,12 @@ public class GameWorldMananger : MonoBehaviour
 	/// </summary>
 	public void Update() 
 	{
+		//Quits Application
+		if(Input.GetKeyDown(KeyCode.Escape)) 
+		{
+			Application.Quit();
+		}
+
 		//If we have an animation in the list, call its update, if it returns true, it's finished and wants to be dequeued and remove from the currently updating list
 		if(m_Animations.Count > 0) 
 		{

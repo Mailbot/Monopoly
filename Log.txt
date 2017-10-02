@@ -316,3 +316,20 @@
 10/02/2017 13:13:05: Player: Player2 Rolled: 2
 10/02/2017 13:13:10: Player: Player2 Landed On: CommunityChest
 10/02/2017 13:13:10: Player: Player2 Chance Card: Your building {and} loan matures – Collect $150
+10/02/2017 15:01:18: Start Of Session
+10/02/2017 15:01:20: Player: Player2 Rolled: 2
+10/02/2017 15:02:22: Start Of Session
+10/02/2017 15:02:23: Player: Player2 Rolled: 3
+10/02/2017 15:03:58: Start Of Session
+10/02/2017 15:03:59: Player: Player2 Rolled: 10
+10/02/2017 15:05:36: Start Of Session
+10/02/2017 15:05:39: Player: Player2 Rolled: 3
+10/02/2017 15:07:03: Start Of Session
+10/02/2017 15:07:04: Player: Player2 Rolled: 9
+10/02/2017 15:08:39: Start Of Session
+10/02/2017 15:09:15: Start Of Session
+10/02/2017 15:09:16: Player: Player2 Rolled: 2
+10/02/2017 15:09:22: Player: Player2 Landed On: CommunityChest
+10/02/2017 15:09:22: Player: Player2 Community Chest: Go Forward 3 Spaces
+10/02/2017 15:09:29: Player: Player2 Landed On: Reading Railroad
+10/02/2017 15:09:30: Player: Player2 Bought: Reading Railroad

@@ -9,7 +9,7 @@ using UnityEngine;
 /// <summary>
 /// Runs a notication showing the effect of the Community Chest
 /// </summary>
-public class CommuintyChest : BonusCard {
+public class CommunityChest : BonusCard {
 
 	/// <summary>
 	/// Runs the Community Chest
