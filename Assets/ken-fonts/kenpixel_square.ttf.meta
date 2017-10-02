@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bb8f7a17415aa4eeb85c3ec962e364a5
+timeCreated: 1506752882
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KenPixel Square
+  fontNames:
+  - KenPixel Square
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
